@@ -10,3 +10,6 @@
 [submodule "app/log"]
 	path = app/log
 	url = git://github.com/nexgenta/log.git
+[submodule "Chroma-Hash"]
+	path = Chroma-Hash
+	url = git://github.com/mattt/Chroma-Hash.git
