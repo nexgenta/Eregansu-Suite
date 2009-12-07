@@ -13,3 +13,9 @@
 [submodule "Chroma-Hash"]
 	path = Chroma-Hash
 	url = git://github.com/mattt/Chroma-Hash.git
+[submodule "app/heartbeat"]
+	path = app/heartbeat
+	url = git://github.com/nexgenta/heartbeat.git
+[submodule "app/shell"]
+	path = app/shell
+	url = git://github.com/nexgenta/shell.git
